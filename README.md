@@ -8,14 +8,36 @@ This repository contains a complete guide for setting up Python projects using v
 
 ## Contents
 
+- **SKILL.md** - How to use the Python setup skill (start here!)
+- **USAGE_EXAMPLES.md** - Real-world examples for different tasks
 - **PYTHON_PROJECT_SETUP_GUIDE.md** - Complete step-by-step guide with examples and troubleshooting
 
-## Quick Start
+## Quick Start - Using the Skill
 
-1. Clone this repository or copy the guide
-2. Create a new Python project folder
-3. Follow the guide in `PYTHON_PROJECT_SETUP_GUIDE.md`
-4. Reference the "Quick Setup" section for every new project
+### For Beginners (Recommended):
+
+Simply describe your Python project needs:
+
+```
+I want to scrape product names and prices from a website and save them to a CSV file.
+```
+
+This skill will:
+1. **Analyze your task** — figure out what packages you need
+2. **Explain everything** — tell you why each package is needed
+3. **Provide ONE command** — simple setup with only necessary packages
+4. **Give starter code** — copy-paste example for your specific task
+
+### See Examples:
+
+Real-world examples for common tasks:
+- Web scraping
+- Data analysis
+- Image downloading
+- Price monitoring
+- And more...
+
+Read `USAGE_EXAMPLES.md` for detailed examples.
 
 ## What You'll Learn
 
